@@ -1,4 +1,4 @@
-"# Udacity-Coffee-Shop-App" 
+# Udacity-Coffee-Shop-App
  
  Please refer to the README file in the starter_code folder for details on running the app. 
  
